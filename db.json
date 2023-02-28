@@ -1,9 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "contacts": [
+    {
+      "name": "ali",
+      "email": "ali@yahoo.com",
+      "id": 1677483965033,
+      "AtCreate": "2023-02-27T07:46:45.106Z"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad@gmail.com",
+      "id": 1677483971496,
+      "AtCreate": "2023-02-27T07:46:27.050Z"
+    }
+  ]
 }
